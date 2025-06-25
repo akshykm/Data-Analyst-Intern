@@ -46,7 +46,6 @@ To clean and preprocess a raw dataset by identifying and fixing missing values, 
 | File                       | Description                           |
 | -------------------------- | ------------------------------------- |
 | `task1_cleaning_script.py` | Python script with all cleaning steps |
-| `README.md`                | Summary of what was done              |
 
 
 ---
@@ -92,6 +91,5 @@ To clean and preprocess a raw dataset by identifying and fixing missing values, 
 | File                   | Description                                               |
 | ---------------------- | --------------------------------------------------------- |
 | `cleaned_dataset.xlsx` | Final cleaned dataset with all formatting and corrections |
-| `README.md`            | Summary of what was done in Excel                         |
 
 
